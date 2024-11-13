@@ -1,6 +1,8 @@
 16.WebApp
 
 16.1 UserInterface(Homepage):
+
+
 It Provides users with an intuitive and welcoming entry point to access the main features of the web app, including navigation to prediction tools and insights.
 
 16.2 .PredictionTool
