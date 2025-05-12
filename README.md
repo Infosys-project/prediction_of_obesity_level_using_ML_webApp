@@ -1,6 +1,6 @@
 Live Demo:
 
-Visit our deployed web app at: https://obesity-level-prediction-web-app.onrender.com
+Visit our deployed web app at: https://prediction-of-obesity-level-using-ml-k94l.onrender.com
 
 16.WebApp
 
